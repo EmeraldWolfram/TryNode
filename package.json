@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/EmeraldWolfram/TryNode/issues"
   },
-  "homepage": "https://github.com/EmeraldWolfram/TryNode#readme"
+  "homepage": "https://github.com/EmeraldWolfram/TryNode#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
 }

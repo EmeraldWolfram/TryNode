@@ -8,7 +8,7 @@ module.exports = function(app) {
     .post(emeraldList.createUser);
 
 
-  app.route('/tasks/:taskId')
+  app.route('/user/:userId')
     .get(emeraldList.getUser)
     .put(emeraldList.updateUser)
     .delete(emeraldList.deleteUser);

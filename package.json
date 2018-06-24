@@ -1,0 +1,24 @@
+{
+  "name": "trynode",
+  "version": "1.0.0",
+  "description": "TryNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"RESTful API test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmeraldWolfram/TryNode.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Node"
+  ],
+  "author": "EmeraldWolfram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmeraldWolfram/TryNode/issues"
+  },
+  "homepage": "https://github.com/EmeraldWolfram/TryNode#readme"
+}
